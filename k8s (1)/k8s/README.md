@@ -1,5 +1,5 @@
 # K8s Learnathon // Kubernetes and Microservices
-Simple microservice boilerplate.
+Simple microservice boilerplate(A sample application to deploy in Kubernetes).
 
 ## Description
 Pinger is an app which continuously calls any URL, to check if it's up or not. 
